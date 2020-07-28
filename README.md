@@ -1,2 +1,2 @@
-# trelllo-clone
+# trello-clone
 Trello clone made using react
